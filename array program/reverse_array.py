@@ -30,7 +30,7 @@ def reverse(A, start, end):
 
 A= [2,3,5,6,4,7]
 
-reverse(A,0,9)
+reverse(A,0,5)
 print("the reverse list is :", A)
 
 # the reverse list is : [7, 4, 6, 5, 3, 2]
